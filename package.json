@@ -15,6 +15,6 @@
   },
   "scripts": {
     "build": "rm -r ./lib && ./node_modules/.bin/babel src --out-dir lib",
-    "dev": "node ./lib/Tester.js"
+    "dev": "node ./lib/LinkedList/DoubleLink/Tester.js"
   }
 }
